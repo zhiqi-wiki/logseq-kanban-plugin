@@ -103,6 +103,11 @@ const main = async () => {
       //if (payload.includes("DEADLINE: <")) {
       //  payload = payload.substring(0, payload.indexOf("DEADLINE: <"));
       //}
+      
+      //if (payload.includes("SCHEDULED: <")) {
+      //  payload = payload.substring(0, payload.indexOf("SCHEDULED: <"));
+      //}
+      
       //if (content.indexOf(`\nid:: `) === -1) {
       //  return payload;
       //} else {
